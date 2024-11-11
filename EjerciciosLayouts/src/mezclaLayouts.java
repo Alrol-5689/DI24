@@ -48,5 +48,6 @@ public class mezclaLayouts extends JFrame {
 		JButton btnSalir = new JButton("SALIR");
 		btnSalir.setBounds(743, 343, 85, 21);
 		contentPane.add(btnSalir);
+		
 	}
 }
